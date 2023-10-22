@@ -79,7 +79,7 @@ function Bollywood() {
             })}
           {received
             .filter(
-              (item) => item.id >= 77 && item.id <= 82 && item.Category === "Home"
+              (item) => item.id >= 4 && item.id <= 9 && item.Category === "Bollywood"
             )
             .map((item, index) => {
               return (

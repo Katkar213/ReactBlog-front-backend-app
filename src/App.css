@@ -117,10 +117,9 @@ footer{
   width:460px;
 } 
 #Description2{
-  width:20vw;
+  width:30vw;
   height:auto;
   text-align: left;
-
 }
 
 
@@ -194,8 +193,6 @@ transition:all 0.2s linear;
   flex-direction: column;
   gap:15px;
   margin: auto;
-
-
 }
 .middlecontainerright{
   display: flex;
@@ -529,14 +526,12 @@ color:black;
   
 }
 .special-description{
-  width:40vw;
-  /* height:130px; */
+  width:38vw;
   display:flex;
   text-align: left;
   justify-content:space-between ;
   gap:1vw;
   flex-direction:row ;
-  /* border: 2px solid black; */
   
 }
 .parent2-top-post{
@@ -659,7 +654,6 @@ li:hover{
   gap:9px;
   
   }
- 
   .show{
     display:block;
   }
