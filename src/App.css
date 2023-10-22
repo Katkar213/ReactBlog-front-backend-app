@@ -117,8 +117,8 @@ footer{
   width:460px;
 } 
 #Description2{
-  width:460px;
-  height:200px;
+  width:20vw;
+  height:auto;
   text-align: left;
 
 }
@@ -182,7 +182,7 @@ transition:all 0.2s linear;
   width:40vw;
 } */
 #boximg{
-  width:30vw;
+  width:26vw;
 }
 
 /* description2 contain in left side parent also */
@@ -404,7 +404,7 @@ font-size: 30px;
 }
 #Description2{
   height: auto;
-  width:31vw;
+  width:26vw;
   text-align: center;
 }
 
