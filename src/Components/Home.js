@@ -144,7 +144,7 @@ function Home() {
             })}
           {received
             .filter(
-              (item) => item.id >= 81 && item.id <= 86 && item.Category === "Home"
+              (item) => item.id >= 81 && item.id <= 85 && item.Category === "Home"
             )
             .map((item, index) => {
               return (
